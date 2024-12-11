@@ -1,0 +1,8 @@
+name: CommandConfigurator
+main: commandconfigurator.plugin.CommandConfiguratorPlugin
+version: 1.0.2b/221220
+author: Necnion8
+
+changelog:
+  1.0.2b: |-
+    ハンドラが設定されてない時に、listCommandsがエラーになるバグ修正
